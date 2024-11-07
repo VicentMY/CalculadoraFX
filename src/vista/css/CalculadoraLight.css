@@ -1,0 +1,45 @@
+/* MODO CLARO DE LA VENTANA PRINCIPAL */
+
+/* Clases CSS actuales
+ * 
+ * pantalla			botonesOp		botonesNum		botonesBorrar		botonesMem		botonCalc		barraMenu		menu
+ */
+ 
+ .root {
+ 	-fx-background-color: #f4f6f7;
+ }
+ 
+ .pantalla {
+ 	-fx-text-fill: #000000;
+ }
+ 
+ .barraMenu {
+ 	-fx-background-color: #ff7000;
+ }
+ 
+ .button {
+ 	-fx-font-weight: bold;
+ 	-fx-border-color: #bdc3c7;
+ 	-fx-background-radius: 5px;
+ 	-fx-border-radius: 5px;
+ }
+ 
+ .botonesMem {
+ 	-fx-background-color: #ffc76b;
+ 	-fx-text-fill: #000000;
+ }
+ 
+ .botonesBorrar {
+ 	-fx-background-color: #ffd02f;
+ 	-fx-text-fill: #000000;
+ }
+ 
+ .botonesOp {
+ 	-fx-background-color: #FFFFFF;
+ 	-fx-text-fill: #ff7000;
+ }
+ 
+ .botonesNum {
+ 	-fx-background-color: #ff7000;
+ 	-fx-text-fill: #FFFFFF;
+ }
